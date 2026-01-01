@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student and backend developer with a strong interest in building clean, scalable, and efficient APIs.  <br>I primarily work with **FastAPI (Python)** and **Java**, focusing on backend logic, database integration, and system design.<br><br>I enjoy solving real-world problems, learning new technologies, and improving code quality through best practices and open-source contributions.
+I'm a Computer Science student and backend developer with a strong interest in building clean, scalable, and efficient APIs.  <br>I primarily work with **FastAPI (Python)** and **Java**, focusing on backend logic, database integration, and system design.I enjoy solving real-world problems, learning new technologies, and improving code quality through best practices and open-source contributions.
 
 
 # 💻 Tech Stack:
