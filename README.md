@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0077B5&height=200&section=header&text=Haseeb%20Ahmad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=24\&duration=3000\&pause=1000\&color=3ECF8E\&center=true\&vCenter=true\&width=700\&height=50\&lines=AI+Engineer;Full-Stack+Developer;Agentic+AI+Builder;Open+Source+Contributor;Building+Production-Grade+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=24\&duration=3000\&pause=1000\&color=3ECF8E\&center=true\&vCenter=true\&width=700\&height=50\&lines=ML+Engineer;Full-Stack+Developer;Agentic+AI+Builder;Open+Source+Contributor;Building+Production-Grade+AI+Systems)](https://git.io/typing-svg)
 
 Building **AI-powered production systems** and full-stack applications — from intelligent agents to scalable web platforms.<br/>
 Focused on **AI/ML, Agentic AI, Backend Engineering, and Developer Tooling**.<br/>
@@ -266,39 +266,21 @@ Focused on:
 
 ---
 
-## 🏆 Highlights
+# 🏆 Achievements
 
-* 🤖 Building **Agentic AI systems**
-* 🧠 Focused on **AI/ML & LLM applications**
-* 🔗 Working with **LangChain & LangGraph**
-* 📚 Exploring **Transformers & Deep Learning**
-* 🛠️ Building production-oriented **full-stack applications**
-* 🌐 Interested in **Open Source & AI Research**
-* 🚀 Participating in **AI & software engineering hackathons**
-* 🐧 Linux / Ubuntu developer
+- 🥇 **1st Place** — LoopLab Web Hackathon 2026
+- 🥇 **1st Place** — HireOnRank Web Hackathon 2026
+- 🎖️ **Bronze Fellow** — Dev Weekend MERN Fellowship (selected from 800+ applicants)
+- 🛰️ **Built AXRAY** — OTel-native AI agent observability platform for WeMakeDevs × SigNoz Hackathon
 
 ---
 
-## 🎯 Current Focus
+## 🎓 Leadership & Community
 
-```text
-AI Engineering
-      │
-      ├── Machine Learning
-      ├── Deep Learning
-      ├── Transformers
-      ├── LLMs
-      ├── RAG
-      ├── Agentic AI
-      │
-      └── Production AI Systems
-              │
-              ├── FastAPI
-              ├── Next.js
-              ├── Vector Databases
-              ├── Docker
-              └── Cloud
-```
+- 🧭 **Co-Tech Lead** — Google Developers on campus , COMSATS
+- 🧭 **Tech Lead** — CTEC (University Tech Society)
+- 👨‍🏫 **Instructor — Full-Stack Development** — Loop Learn
+
 
 ---
 
