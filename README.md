@@ -279,8 +279,6 @@ Focused on:
 
 - 🧭 **Co-Tech Lead** — Google Developers on campus , COMSATS
 - 🧭 **Tech Lead** — CTEC (University Tech Society)
-- 👨‍🏫 **Instructor — Full-Stack Development** — Loop Learn
-
 
 ---
 
